@@ -51,6 +51,7 @@ BOARDS = [
     'smartduck/xs61',
     'spcgear/gk530',
     'spcgear/gk540',
+    'spcgear/gk630k',
     'sharkoon/sgk3',
     'womier/k87',
     'flashquark/horizon_z',
